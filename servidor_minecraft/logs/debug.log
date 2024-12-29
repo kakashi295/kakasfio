@@ -3108,3 +3108,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [29Dec2024 00:00:59.955] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ebe9d28[id=<null>,name=kakashiforever,properties={},legacy=false] (/172.22.216.122:51596) lost connection: Disconnected
 [29Dec2024 00:01:03.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narutoforevera lost connection: Disconnected
 [29Dec2024 00:01:03.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narutoforevera left the game
+[29Dec2024 00:02:11.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 00:02:11.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 00:07:11.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 00:07:11.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
